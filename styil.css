@@ -1,0 +1,65 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    margin: 0px 263px;
+}
+ 
+.header-logo {
+    font-size: 74.76px;
+    font-weight: 800;
+    margin-top: 20px;
+    text-align: center;
+}
+.header-tittle {
+    font-size: 74.76px;
+    font-weight: 300;
+    /* margin: 350px 0px 0px 47px; */
+    margin-top: 249px;
+    line-height: 0.9;
+}
+.button a {
+    font-size: 39px;
+    font-weight: 800;
+    text-decoration: none;
+    background-color: #fff;
+    border: 6px #000 solid;
+    border-radius: 11px;
+    padding: 4px 15px;
+    color: #000;
+    
+    
+
+}
+.button {
+    margin-right: 20px;
+}
+.header-inner {
+    display: flex;
+}
+
+.phons {
+    margin-top: 120px;
+    
+}
+
+.iphone1 {
+    height: 476px;
+    width: 436px;
+    position: absolute;
+    margin-right: 173px;
+    z-index: 2;
+    right: 173px;
+    bottom: 222px;
+}
+
+.iphone2 {
+    height: 507px;
+    width: 268px;
+    position: absolute;
+    margin-right: 190px;
+    z-index: 1;
+    right: 94px; 
+    bottom: 235px; 
+}
